@@ -1,4 +1,4 @@
-# controle-cliente
+# Simple laravel docker environment 
 
 ### Instalando o Laravel
 ```sh
